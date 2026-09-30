@@ -1,0 +1,3 @@
+first_name,last_name,email,company,job_title,website,industry,location
+Ada,Lovelace,ada@analytical.engine,Analytical Engines,Founder,https://analytical.engine,Devtools,"London, UK"
+Grace,Hopper,grace@navycompiler.com,Navy Compiler,CTO,https://navycompiler.com,Infrastructure,"Arlington, VA"

@@ -1,0 +1,40 @@
+# Dependencies and generated output
+/node_modules/
+/.vercel/
+/.tanstack/
+/.nitro/
+/dist/
+/build/
+/coverage/
+*.tsbuildinfo
+
+# Local previews, logs, and temporary files
+/screenshots/
+/.grok/preview.log
+/.grok/og-pending
+*.log
+*.tmp
+.DS_Store
+
+# Local configuration, credentials, and databases
+.env
+.env.*
+/.project_id
+/.agents/
+/.aws/
+/.codex/
+*.pem
+*.key
+*.p12
+*.sqlite
+*.sqlite3
+*.db
+*.db-wal
+*.db-shm
+/pglite/
+/.pglite/
+
+# Editor files
+/.idea/
+/.vscode/
+*.swp
